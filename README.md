@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://github.com/saiful9379?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/saiful9379?color=green&logo=github">
+  </a>
+  <a href="https://github.com/saiful9379/">
+    <img src="https://komarev.com/ghpvc/?username=saiful9379" alt="visitors" />
+  </a>
+</p>
+
 # Hi 👋 It's me Saiful
 
 Here are some ideas to get you started:
