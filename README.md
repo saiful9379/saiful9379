@@ -11,7 +11,8 @@
 
 Here are some ideas to get you started:
 - 📫 How to reach me: ... [@saiful9379](https://www.linkedin.com/in/saiful-islam-907128ba/)
-- 🔭 I’m currently working as a Senior Software Engineer(AI) at [saiful@genusys.us](https://www.genuitysystems.com/)
+- 🔭 Current working as a Senior NLP Engineer at ![Hishab](https://hishab.co/)
+- 🏢 Former employee ![Genuity Systems LTD](https://www.genuitysystems.com), ![Next Solution Lab](https://nextsolutionlab.com/), ![Semantics Lab]()
 - 🌱 I’m currently Working `LLM`, `Speech[ASR, TTS, VAD, VDA]`, `Chatbot(rasa)`, `NLP`,
 - 👯 I’m looking to collaborate on `Data Science`, `Time Series`
 - 💬 Ask me about `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Data Science`, `Python`
